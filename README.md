@@ -1,4 +1,4 @@
-# Store_Forecasting_Kaggle
+# Store Item Demand Forecasting Challenge
 Code and Submissions for the Store Item Demand Forecasting Challenge Kaggle Competition
 
 
