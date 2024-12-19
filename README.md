@@ -15,11 +15,12 @@ This is a great competition to explore different models and improve your skills 
 
 ## Submission
 
-Submissions are evaluated on SMAPE between forecasts and actual values. We define SMAPE = 0 when the actual and predicted values are both 0.
+Submissions are evaluated on SMAPE between forecasts and actual values
 
+## Top Score
 
-## My Top Scores
+1. LightGBM: 12.95683 (Private)
 
-
+## Source
 
 inversion. Store Item Demand Forecasting Challenge. https://kaggle.com/competitions/demand-forecasting-kernels-only, 2018. Kaggle.
